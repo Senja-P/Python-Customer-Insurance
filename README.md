@@ -7,8 +7,6 @@
 
 - It is known that the cost of car insurance is based on risks. No recommendations were made due to data limitations; some key risk factors and claim data were missing and the data didn't provide a good representation of the entire year.
 
--	The above Python scripts were created for this study project. I used the following tools and libraries; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, folium, json, pylab, sklearn (e.g Linear Regression, cluster, KMeans)
-
 - The presentation of findings and the summary of the data analysis process is available on [Tableau](https://public.tableau.com/app/profile/senja.p8569/viz/CarInsuranceData_16370600838990/CarInsuranceData).
 
 
@@ -21,8 +19,8 @@
 - Conducted regression and cluster analysis and interpreted the results
 
 ### Technical skills utilised
-- pandas, numpy, os, matplotlib, seaborn, folium, json, pylab, sklearn (e.g Linear Regression, cluster, KMeans)
-- tableau
+- The above Python scripts were created for this study project. I used the following tools and libraries; Jupyter, pandas, NumPy, os, matplotlib, seaborn, folium, json, pylab, sklearn (e.g Linear Regression, cluster, KMeans)
+- tableau used for visualisation (dashboard also included the categorical data)
 
 ### Data 
 - Almost 10K rows, 24 columns
