@@ -11,6 +11,9 @@
 
 - The presentation of findings and the summary of the data analysis process is available on [Tableau](https://public.tableau.com/app/profile/senja.p8569/viz/CarInsuranceData_16370600838990/CarInsuranceData).
 
+
+![](https://github.com/Senja-P/Images/blob/main/Cluster_correlation_heatmap.png)
+
 ### Analytics
 - Conducted an exploratory visual analysis to identify relationships between variables 
 - Explored geographic variables using choropleth maps to draw early insights
