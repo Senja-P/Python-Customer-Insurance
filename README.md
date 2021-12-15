@@ -15,12 +15,12 @@
 ### Analytics
 - Conducted an exploratory visual analysis to identify relationships between variables 
 - Explored geographic variables using choropleth maps to draw early insights
-- Got understandings of supervised and unsupervised machine learning
+- Learned supervised and unsupervised machine learning
 - Conducted regression and cluster analysis and interpreted the results
 
 ### Technical skills utilised
 - The above Python scripts were created for this study project. I used the following tools and libraries; Jupyter, pandas, NumPy, os, matplotlib, seaborn, folium, json, pylab, sklearn (e.g Linear Regression, cluster, KMeans)
-- tableau used for visualisation (dashboard also included the categorical data)
+- Tableau used for visualisation (dashboard also included the categorical data)
 
 ### Data 
 - Almost 10K rows, 24 columns
