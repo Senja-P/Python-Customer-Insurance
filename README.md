@@ -20,7 +20,7 @@
 
 ### Technical skills utilised
 - The above Python scripts were created for this study project. I used the following tools and libraries; Jupyter, pandas, NumPy, os, matplotlib, seaborn, folium, json, pylab, sklearn (e.g Linear Regression, cluster, KMeans)
-- [Tableau](https://public.tableau.com/app/profile/senja.p8569/viz/CarInsuranceData_16370600838990/CarInsuranceData) used for visualisation (dashboard also included the categorical data)
+- [Tableau](https://public.tableau.com/app/profile/senja.p8569/viz/CarInsuranceData_16370600838990/CarInsuranceData) used for visualisation (dashboard also includes the categorical data)
 
 ### Data 
 - Almost 10K rows, 24 columns
